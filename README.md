@@ -1,4 +1,5 @@
-# This Repository contain the code of a student's project made in 2016 with a team composed of
+# Champion's Brawl - ARIES Lyon - 2016 
+This Repository contain the code of a student's project made in 2016 with a team composed of
 
 Melissa Klaus : Project Manager
 
